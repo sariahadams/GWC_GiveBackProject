@@ -1,3 +1,10 @@
+
+#Import StudyHand_func.py into this program
+from StudyHand_func import display_question
+from StudyHand_func import analyze_study_habits
+from StudyHand_func import run_study_habits_quiz
+
+
 print("Welcome to Study Bee! Let's get you started")
 print("Let's learn about who you are")
 
